@@ -8,7 +8,7 @@ setup(
     author='Pedram Hajesmaeeli',
     author_email='pedram.esmaeeli@gmail.com',
     url='https://github.com/pdrum/django_admin_links',
-    keywords=['django', 'admin', 'foreign keys'],  # arbitrary keywords
+    keywords=['django', 'admin', 'foreign keys'],
+    download_url='https://github.com/pdrum/django_admin_links/archive/0.1.tar.gz',
     classifiers=[],
-    install_requires=['django>=1.6']
 )
